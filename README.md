@@ -1,4 +1,2 @@
-# new
-# expense-
-# expense-
-# expense-
+# MERN Stack Expense Tracker 
+
